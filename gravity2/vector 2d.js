@@ -1,5 +1,3 @@
-/* credit: https://codepen.io/shubniggurath/pen/ZrvEEQ */
-
 const conversionFactor = 180 / Math.PI;
 
 let radianToDegrees = function(radian) {
