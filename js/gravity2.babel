@@ -1,3 +1,7 @@
+/*
+https://codepen.io/shubniggurath/pen/byqgPw
+*/
+
 class Simulation {
   constructor(el) {
     if(el instanceof HTMLElement && el.nodeName.toLowerCase() === 'canvas') {
