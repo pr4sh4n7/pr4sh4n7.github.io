@@ -1,6 +1,4 @@
-/*
-https://codepen.io/shubniggurath/pen/byqgPw
-*/
+/* credit: https://codepen.io/shubniggurath/pen/byqgPw */
 
 class Simulation {
   constructor(el) {
