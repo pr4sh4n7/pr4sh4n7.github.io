@@ -1,5 +1,7 @@
 /* rendered babel file */
 
+'esversion: 6';
+
 class Simulation {
 	constructor(el) {
 		if (el instanceof HTMLElement && el.nodeName.toLowerCase() === 'canvas') {
