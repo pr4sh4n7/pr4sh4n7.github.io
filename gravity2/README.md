@@ -2,4 +2,4 @@
 
 Click and drag to add another heavy body to the mix.
 
-[forked from https://codepen.io/shubniggurath/pen/byqgPw]
+[forked from <https://codepen.io/shubniggurath/pen/byqgPw>]
